@@ -4,10 +4,12 @@
   "excluded": [
     ".system",
     "empty directories",
-    "ui-ux-pro-max (removed: missing required scripts and data)"
+    "ui-ux-pro-max (removed: missing required scripts and data)",
+    "idea-to-design (removed by request)",
+    "turn-idea-into-spec (removed by request)"
   ],
-  "skill_count": 43,
-  "file_count": 127,
+  "skill_count": 41,
+  "file_count": 121,
   "files": [
     {
       "path": "skills/animation-vocabulary/SKILL.md",
@@ -173,21 +175,6 @@
       "path": "skills/fundraising/SKILL.md",
       "bytes": 3133,
       "sha256": "2650ba89d694a72e2284ae7448a372556e5fd9a9f84f5527c41b8367a54442bd"
-    },
-    {
-      "path": "skills/idea-to-design/examples/example-session.md",
-      "bytes": 5832,
-      "sha256": "73ff113bd1c9c270ad71b5c38f088a469ceb9df2eae9f4ce120bc63190728c61"
-    },
-    {
-      "path": "skills/idea-to-design/README.md",
-      "bytes": 1062,
-      "sha256": "4ceadabc88d744df54aed5051812ca68a66ea093ce5eada98680a65687103d88"
-    },
-    {
-      "path": "skills/idea-to-design/SKILL.md",
-      "bytes": 11229,
-      "sha256": "f081cd57eb844e4ca05818a1ec92c76a7abba5ae623efbda2d12e73a48e81066"
     },
     {
       "path": "skills/improve-animations/AUDIT.md",
@@ -508,21 +495,6 @@
       "path": "skills/transcript-proofreader/SKILL.md",
       "bytes": 3684,
       "sha256": "c198c24746444b5c16b2fbeedf08870b00b360410c1d6238c1c4658d22f396ab"
-    },
-    {
-      "path": "skills/turn-idea-into-spec/examples/example-session.md",
-      "bytes": 2223,
-      "sha256": "5bad3ecee42cbf0ed9a3736e1470005d8db2d4a7fbe116a47a29a9fac9774927"
-    },
-    {
-      "path": "skills/turn-idea-into-spec/README.md",
-      "bytes": 1586,
-      "sha256": "b2fd82da0417c0eab2c4226dd619f929b237ddbb60adaeb6780f03e1cfbd6601"
-    },
-    {
-      "path": "skills/turn-idea-into-spec/SKILL.md",
-      "bytes": 9394,
-      "sha256": "f7443ff2435c673419d9eaa6a728977baf339d26dd1a6a37212c5c53f0b86b95"
     },
     {
       "path": "skills/user-first-compact-ui/SKILL.md",

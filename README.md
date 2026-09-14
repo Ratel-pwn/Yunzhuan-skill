@@ -1,6 +1,6 @@
 # Yunzhuan Skill
 
-个人 Codex skills 集合，收录本地 `~/.codex/skills` 中的 **43 个技能**，包含原始 `SKILL.md`、参考文档、脚本和资源。
+个人 Codex skills 集合，收录本地 `~/.codex/skills` 中的 **41 个技能**，包含原始 `SKILL.md`、参考文档、脚本和资源。
 
 适用于需求与方案、研发流程、前端设计与动效、文档与内容制作、项目测试等场景。完整列表见 [Skills 目录](SKILLS.md)。
 
