@@ -3,10 +3,11 @@
   "source": "~/.codex/skills",
   "excluded": [
     ".system",
-    "codex-primary-runtime (empty directory)"
+    "empty directories",
+    "ui-ux-pro-max (removed: missing required scripts and data)"
   ],
-  "skill_count": 44,
-  "file_count": 130,
+  "skill_count": 43,
+  "file_count": 127,
   "files": [
     {
       "path": "skills/animation-vocabulary/SKILL.md",
@@ -522,21 +523,6 @@
       "path": "skills/turn-idea-into-spec/SKILL.md",
       "bytes": 9394,
       "sha256": "f7443ff2435c673419d9eaa6a728977baf339d26dd1a6a37212c5c53f0b86b95"
-    },
-    {
-      "path": "skills/ui-ux-pro-max/data",
-      "bytes": 31,
-      "sha256": "8c30a85b7b44b164b0932a9ceb1b9920a6bf461caa0d712c5f1d8e49ca07c36f"
-    },
-    {
-      "path": "skills/ui-ux-pro-max/scripts",
-      "bytes": 34,
-      "sha256": "1f80a44a7c81b3d286013ba1e133581ff5966544496a9caa758291dba3e5a4f2"
-    },
-    {
-      "path": "skills/ui-ux-pro-max/SKILL.md",
-      "bytes": 45434,
-      "sha256": "4d89e171a3edc39386ce5df27d4ff1446fc20c2dd41702154c93b5535d4cac31"
     },
     {
       "path": "skills/user-first-compact-ui/SKILL.md",
