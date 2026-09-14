@@ -6,10 +6,12 @@
     "empty directories",
     "ui-ux-pro-max (removed: missing required scripts and data)",
     "idea-to-design (removed by request)",
-    "turn-idea-into-spec (removed by request)"
+    "turn-idea-into-spec (removed by request)",
+    "skill-wizard (removed by request)",
+    "writing-skills (removed by request)"
   ],
-  "skill_count": 41,
-  "file_count": 121,
+  "skill_count": 39,
+  "file_count": 110,
   "files": [
     {
       "path": "skills/animation-vocabulary/SKILL.md",
@@ -357,21 +359,6 @@
       "sha256": "c1ff42e5996084cbb4fd289d2f4f21db82f1634c535b384645c0bacc82453161"
     },
     {
-      "path": "skills/skill-wizard/examples/example-session.md",
-      "bytes": 3832,
-      "sha256": "9e2fb4aaf32cbe1704004b346c37d6e0ff7d2d0ba88e643de1cc94801ee8bdc8"
-    },
-    {
-      "path": "skills/skill-wizard/README.md",
-      "bytes": 2379,
-      "sha256": "56dd8217991098de6ec76da83bc67b74ac26978e811d977eea390903b6de713f"
-    },
-    {
-      "path": "skills/skill-wizard/SKILL.md",
-      "bytes": 15828,
-      "sha256": "7945978011e323f5d1708999b0783d46bbcc2341c76058bce8670522d78c92a6"
-    },
-    {
       "path": "skills/subagent-driven-development/agents/openai.yaml",
       "bytes": 138,
       "sha256": "58ef494a996998f2a486a0764b769bdf02e9c148b050b38603dbcdb364ae2771"
@@ -575,46 +562,6 @@
       "path": "skills/writing-plans/SKILL.md",
       "bytes": 7092,
       "sha256": "272e1af349f5062c28dc282b3e21b220d58d683a7314a10c455b7432ec91d845"
-    },
-    {
-      "path": "skills/writing-skills/agents/openai.yaml",
-      "bytes": 110,
-      "sha256": "c4fafd8a5f3d60328fbf000562dce12d99ec0f25dd016fc0d362ecce9fc02042"
-    },
-    {
-      "path": "skills/writing-skills/anthropic-best-practices.md",
-      "bytes": 46197,
-      "sha256": "217629b356c09c9bd11017c9788e8fc654ca1b32c92d4a51cd490e16dd65e59a"
-    },
-    {
-      "path": "skills/writing-skills/examples/CLAUDE_MD_TESTING.md",
-      "bytes": 5423,
-      "sha256": "0b379a3415e185d3c434b3ad283d8aa132f3022c2a4f210f168865b5986bcef0"
-    },
-    {
-      "path": "skills/writing-skills/graphviz-conventions.dot",
-      "bytes": 5970,
-      "sha256": "e2890a593c91370e384b42f2f67b1a6232c9e69dddea7891a0c1c46d7b20b694"
-    },
-    {
-      "path": "skills/writing-skills/persuasion-principles.md",
-      "bytes": 5901,
-      "sha256": "a51bc9bf75189ea73a27b3fb504a2fdfdb966fb1f7f1cdf03203230a216ccc03"
-    },
-    {
-      "path": "skills/writing-skills/render-graphs.js",
-      "bytes": 4857,
-      "sha256": "ccda971a87bb185f8febf81c56b556a20d026fa980c17b35fa3e8824fbb37852"
-    },
-    {
-      "path": "skills/writing-skills/SKILL.md",
-      "bytes": 26431,
-      "sha256": "6b8d08fe863318be8480ae8428e169640309fa9208df84bb0510012764454146"
-    },
-    {
-      "path": "skills/writing-skills/testing-skills-with-subagents.md",
-      "bytes": 12558,
-      "sha256": "c711346852c911b24a84aa161e0cff06a4cd7f4e2fa9e9c0a266cead5afcbade"
     }
   ]
 }
