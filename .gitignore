@@ -1,0 +1,17 @@
+.system/
+.env
+.env.*
+!.env.example
+!.env.template
+**/config.local.*
+**/rss-telegram-notifier/config.json
+**/rss_state.json
+*.pem
+*.key
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db
+*.log

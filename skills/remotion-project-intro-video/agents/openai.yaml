@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remotion Project Intro Video"
+  short_description: "Create a readable, dynamic Remotion explainer from verified source material."
+  default_prompt: "Use $remotion-project-intro-video to turn verified source material into a high-energy project intro video with subtitles."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "React Native Full Migration"
+  short_description: "Migrate React Tailwind Android apps to real React Native."
+  default_prompt: "Use $react-native-full-migration to migrate this React web Android app into a fully native React Native app."

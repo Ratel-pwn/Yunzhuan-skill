@@ -1,0 +1,4 @@
+interface:
+  display_name: "React Project Engineering"
+  short_description: "Keep React projects modular during feature work."
+  default_prompt: "Use this skill before changing React frontend business logic, UI behavior, or feature scope so layout, components, state, services, and page boundaries remain clean."

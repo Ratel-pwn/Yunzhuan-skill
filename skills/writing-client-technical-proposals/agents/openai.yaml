@@ -1,0 +1,4 @@
+interface:
+  display_name: "客户技术方案撰写"
+  short_description: "编写证据充分、边界清晰并可报价交付的专业客户技术方案"
+  default_prompt: "Use $writing-client-technical-proposals to draft a client-ready technical proposal with scope, responsibilities, schedule, quotation, and acceptance criteria."

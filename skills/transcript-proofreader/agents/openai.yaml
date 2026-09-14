@@ -1,0 +1,4 @@
+interface:
+  display_name: "Transcript Proofreader"
+  short_description: "Directly proofread transcript text and confirm output mode before writing."
+  default_prompt: "Proofread transcript/subtitle text with semantic correction (wrong words, homophone ASR mistakes), preserve timing lines, then confirm output mode: local copy, overwrite with backup, or save-as path."

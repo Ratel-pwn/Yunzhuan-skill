@@ -1,0 +1,17 @@
+{
+  "telegram": {
+    "bot_token": "YOUR_BOT_TOKEN_HERE",
+    "chat_id": "YOUR_CHAT_ID_HERE"
+  },
+  "feeds": [
+    {
+      "url": "https://www.bestblogs.dev/feeds/rss?featured=y",
+      "max_entries": 5
+    }
+  ],
+  "settings": {
+    "check_interval_minutes": 60,
+    "state_file": "rss_state.json",
+    "silent_notifications": false
+  }
+}

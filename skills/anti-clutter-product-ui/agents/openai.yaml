@@ -1,0 +1,4 @@
+interface:
+  display_name: "User-First Product UI"
+  short_description: "Design features from user jobs, not fields."
+  default_prompt: "Use $anti-clutter-product-ui to make user-first product decisions before changing this UI or feature."

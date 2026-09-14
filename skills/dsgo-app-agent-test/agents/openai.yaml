@@ -1,0 +1,4 @@
+interface:
+  display_name: "DSGO App Agent Test"
+  short_description: "Standard Android APP Agent testing workflow for DSGO."
+  default_prompt: "Use the DSGO App Agent Test workflow to generate, repair, run, and summarize an Android APP Agent test."
